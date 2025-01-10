@@ -99,7 +99,7 @@
 .cart-info span:nth-child(1){
     color: rgb(0, 179, 0);
 }
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 650px) {
     .container{
         display: flex;
         flex-direction: column;
