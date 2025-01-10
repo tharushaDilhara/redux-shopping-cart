@@ -127,19 +127,21 @@
         overflow: auto;
         width: 98%;
         height: 100%;
+        display: flex;
+        align-items: center;
     }
     .dets{
         display: flex; 
         gap: 10px;
         align-items: center;
         justify-content: space-around;
-        margin-left: 10px;
         box-shadow: 2px 2px 2px 2px rgb(180, 178, 178);
         background-color: whitesmoke;
         min-width: 90%;
         height: 80px;
         margin-top: 10px;
         margin-right: 1px;
+        font-size: 12px;
     }
     .bacics-details{
         display: flex;
