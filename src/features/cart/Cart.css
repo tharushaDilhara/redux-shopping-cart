@@ -137,7 +137,7 @@
         justify-content: space-around;
         box-shadow: 2px 2px 2px 2px rgb(180, 178, 178);
         background-color: whitesmoke;
-        max-width: 100%;
+        max-width: fit-content;
         height: 80px;
         margin-top: 10px;
         margin-right: 1px;
