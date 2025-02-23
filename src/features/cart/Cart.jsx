@@ -36,7 +36,7 @@ const Cart = () => {
                                     <button onClick={()=>disptach(decrease(item))}>-</button>{item.quantity}<button onClick={()=>disptach(increase(item))}>+</button>
                                 </div>
                                 <div className="btn">
-                                    <button onClick={()=>disptach(removeFromCart(item))}>Remove</button>
+                                    <button className='remove-btn' onClick={()=>disptach(removeFromCart(item))}>Delete</button>
                                 </div>
                             </div>
                 </div>
